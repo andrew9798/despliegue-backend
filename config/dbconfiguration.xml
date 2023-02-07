@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBconfiguration>
+	<ip>127.0.0.1</ip>
+    <dbname>films</dbname>
+    <user>remoteuser</user>
+    <pass>FWNQ5!Pnky@2NuRT</pass>    
+</DBconfiguration>
