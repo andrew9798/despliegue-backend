@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DBconfiguration>
-	<ip>10.2.1.174</ip>
+	<ip>10.2.1.61</ip>
     <dbname>films</dbname>
     <user>remoteuser2</user>
     <pass>FWNQ5!Pnky@2NuRT</pass>    
