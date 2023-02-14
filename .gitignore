@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+#agregado al proyecto
+.htaccess
+dbconfiguration.xml
+urls.js
+
